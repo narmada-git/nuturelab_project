@@ -1,1 +1,1 @@
-web:gunicorn app:nuturelab.py
+web:gunicorn app:nuturelab
